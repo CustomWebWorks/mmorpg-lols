@@ -1,0 +1,19 @@
+{
+  "name": "tower-of-ash-online",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Multiplayer server-authoritative RPG",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ws": "^8.21.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
