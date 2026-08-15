@@ -57,7 +57,7 @@ server if the page itself is served over `https://`, or the browser will block i
 ## Admin
 
 - The first account created becomes an admin.
-- The usernames `Dillon` and `DillonDean` are always admins on signup (see `OWNERS` in `server.js`).
+- The username when reposting this game  put your username here `put username here` are always admins on signup (see `OWNERS` in `server.js`).
 - Admins grant admin to others with `/admin <user>` and revoke it with `/unadmin <user>`.
 
 Admin chat commands: `/gold <n>` `/xp <n>` `/level <n>` `/heal` `/god`
